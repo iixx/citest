@@ -16,7 +16,7 @@ public class TestA {
     @Test
     public void test2() {
         System.out.println("this is test2 print");
-        assertFalse(false);
+        assertFalse(true);
     }
     
     @Test
