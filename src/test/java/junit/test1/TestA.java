@@ -9,7 +9,7 @@ public class TestA {
     
     @Test
     public void test1() {
-        assertTrue(false);
+        assertTrue(true);
     }
     
     @Test
