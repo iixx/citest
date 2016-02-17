@@ -1,0 +1,5 @@
+language: java
+
+notifications:          触发
+  email:                测试完成后测试报告发到哪
+    - musicsxy@gmail.com
